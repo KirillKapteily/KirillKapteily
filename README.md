@@ -4,6 +4,9 @@
 
 # I'm interested in front-end development, and i’m currently learning HTML and CSS
 
+![Profile Views](https://komarev.com/ghpvc/?username=KirillKapteily&color=red)
+
+
 ## I'm developing a new gen of Winex App Store
 
 Screenshot of the Project
@@ -13,9 +16,9 @@ Screenshot of the Project
 - Safe downloading
 - Simple interface
 - acrros devices
-  ## Remember! this project is currently in alpha test
+  ## Remember! this project is currently in Beta test
 
-- 📫 How to reach me? Easy! lenaplop980@icloud.com 
+- 📫 How to reach me? Easy! lenaplop980@icloud.com
 
 
 <!---
