@@ -10,13 +10,16 @@
 ## I'm developing a new gen of Winex App Store
 
 Screenshot of the Project
-<img width="1440" alt="Знімок екрана 2024-12-13 о 12 37 27" src="https://github.com/user-attachments/assets/1467f52c-475d-4216-8a06-e0e4b4cd8149" />
+<img width="1440" alt="Знімок екрана 2025-02-06 о 18 05 10" src="https://github.com/user-attachments/assets/fa7b4c57-cefa-4968-8ca5-47a093e14c99" />
+
+
 
 ## Features
 - Safe downloading
 - Simple interface
 - acrros devices
-  ## Remember! this project is currently in Beta test
+- hello, how are you?
+- Good performance
 
 - 📫 How to reach me? Easy! lenaplop980@icloud.com
 
