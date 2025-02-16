@@ -12,6 +12,9 @@
 Screenshot of the Project
 <img width="1440" alt="Знімок екрана 2025-02-06 о 18 05 10" src="https://github.com/user-attachments/assets/fa7b4c57-cefa-4968-8ca5-47a093e14c99" />
 
+## https://t.me/winexappstore
+## ^ Oficial channel ^
+
 
 
 ## Features
