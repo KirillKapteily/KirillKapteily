@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m @KirillKapteily.
 
-# I'm interested in front-end development, and i’m currently learning HTML and CSS
+# I'm interested in front-end development, and i’m currently learning HTML, CSS and JS!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KirillKapteily&color=red)
 
