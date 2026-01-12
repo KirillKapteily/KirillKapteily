@@ -1,4 +1,4 @@
-![Untitled](https://github.com/user-attachments/assets/036f1981-2aa3-4bda-8557-f49951bbf27b)![Image](https://img.freepik.com/photos-gratuite/paysage-champs-pendant-journee_23-2150724911.jpg?w=360)
+![Group 1 (1) (1)](https://github.com/user-attachments/assets/dfafa5dd-52de-4c10-9d55-850f35b5f58c)
 
 # 👋 Hi, I’m @KirillKapteily.
 
@@ -9,8 +9,7 @@
 
 ## I'm developing a new gen of Winex App Store
 
-Screenshot of the Project
-<img width="1440" alt="Знімок екрана 2025-02-06 о 18 05 10" src="https://github.com/user-attachments/assets/fa7b4c57-cefa-4968-8ca5-47a093e14c99" />
+Screenshot of the Project<img width="2872" height="1370" alt="Screenshot 2026-01-12 at 1 01 57 PM" src="https://github.com/user-attachments/assets/ac02f682-74c2-4f38-a605-7da940dfff21" />
 
 ## https://t.me/winexappstore
 ## ^ Oficial channel ^
@@ -21,8 +20,9 @@ Screenshot of the Project
 - Safe downloading
 - Simple interface
 - acrros devices
-- hello, how are you?
+- settings
 - Good performance
+- search
 
 - 📫 How to reach me? Easy! lenaplop980@icloud.com
 
